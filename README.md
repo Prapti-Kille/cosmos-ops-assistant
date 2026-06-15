@@ -46,6 +46,3 @@ streamlit run app.py
 - SQLite
 - Streamlit
 - Plotly
-
-## Resume line
-> Built an AI-powered incident triage and ops dashboard for a simulated distributed database platform; integrated OpenAI API for automated severity classification and root cause analysis across relational, non-relational, and OSS database failure scenarios; layered SQL-backed incident analytics and capacity utilization tracking to mirror real-world DRI workflows.

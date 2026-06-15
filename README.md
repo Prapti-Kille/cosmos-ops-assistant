@@ -2,7 +2,7 @@
 
 An AI-powered incident triage and operations dashboard for distributed database platforms (Azure SQL DB, Cosmos DB, PostgreSQL OSS).
 
-Built to demonstrate hands-on experience with LLM APIs, database operations, incident management, and capacity planning — core competencies for platform PM roles on Azure Data teams.
+Built to demonstrate hands-on experience with LLM APIs, database operations, incident management, and capacity planning.
 
 ## What it does
 

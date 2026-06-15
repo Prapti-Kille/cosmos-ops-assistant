@@ -4,6 +4,8 @@ An AI-powered incident triage and operations dashboard for distributed database 
 
 Built to demonstrate hands-on experience with LLM APIs, database operations, incident management, and capacity planning.
 
+Check it out: https://cosmos-ops-assistant.streamlit.app
+
 ## What it does
 
 **Tab 1 — Incident Triage (LLM)**
